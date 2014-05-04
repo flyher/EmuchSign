@@ -1,0 +1,55 @@
+﻿#help
+{
+    width:80%;
+    height:200px;
+    line-height:20px;
+    background-color:Silver;
+    border-radius:10px;
+    }
+#name
+{
+	color: black;
+	font: 2.5em "Comic Sans MS";
+	text-shadow: rgba(208, 208, 208, .7) 2px 2px 3px;
+	text-align: center;
+	font-weight: bold;
+    }
+#title
+{
+    height:40px;
+    line-height:40px;
+    text-align: center;
+    }
+.div_mid
+{
+    margin-left:200px;
+    margin-right:auto;
+    }
+.description
+{
+    width:80%;
+    height:30px;
+    line-height:30px;
+    background-color:Silver;
+    border-radius:4px;
+    }
+.line
+{
+    width:600px;
+    height:300px;
+    width:500px;
+    height:300px;
+    /*background-color:lightgreen;*/
+    font-size:10pt;       
+}
+.div_foot
+{
+    width:80%;
+	height:40px;
+	margin-top:10px;
+	text-align:center;
+	font-size:10pt;
+	line-height:40px;
+	background-color:silver;
+	border-radius:4px;
+    }
