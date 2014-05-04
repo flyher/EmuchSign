@@ -3,6 +3,7 @@ EmuchSign
 
 小木虫签到工具<br/>
 小木虫网站:http://emuch.net/bbs<br/>
+本Demo预览:http://flyher.github.io/EmuchSign
 
 ===<br/><br/>
 更新时间:2014-05-04<br/>
